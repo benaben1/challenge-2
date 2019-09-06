@@ -3,5 +3,3 @@
             console.log("The squares of the numbers include,"+c);
 
         }
-    }
-}
